@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_9be43e3c480dcf37983f897c434195df33b77f7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_a20b8b16610d9124fbe01dc792fcfd92b9ae8709.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="56e260ad437518139a5d2b80debf961953f8e694">
+        <dex dex="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_88d4759131d74a93b344784f254a322a9ab354ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b1af1c63e6df8877c42d89c5c1543722716bf1f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_ded40e20434663b165550d4cfbafb5051c2ff256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_26ed7bba58a28b5265664b7c1c588c5eee76ea79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43caf188ff1606034883a8fa9e3acc32a16ac51b">
+        <dex dex="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\pre-dexed\debug\instant-run_511d34097dfbb1b1044a9be3847bf3bbf232df67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anshu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_ee1610ba8fce805d8454ee5ef52a062440a931d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e88dcda673813b1d967511862134a260c551a2f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_893f705bdb5c3aef33a73ea16da93ad730329fc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_feed828c7affa5aa71f33a2a0f6b8d172f8495ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_50d82f640a5d1b9a6456573127c601b6c976da44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_f48dcba9ec27cefd40c961e277d3ba2a3f3d9670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_026085496f308f9f0f18c1ceb4bbf5d2c5102026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_ced81c0f021ec955da8e771ad2d1ed2b10e5aed4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_501ac7ec17e1682708c75ff4eb98316b26b3dc04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Anshu\AndroidStudioProjects\PaniDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_173a909bd522204bed4edf4cd9ce4ea54bcfa257.jar" />
+    </item>
+
+</items>

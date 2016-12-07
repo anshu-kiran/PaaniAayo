@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:minHeight="?attr/actionBarSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:titleTextColor="@android:color/white"
+        android:background="@drawable/banner"
+        android:visibility="visible">
+    </android.support.v7.widget.Toolbar>
+
+    <ImageView
+        android:layout_width="250dp"
+        app:srcCompat="@drawable/jar"
+        android:id="@+id/imageView2"
+        android:layout_above="@+id/btnTanne"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="38dp"
+        android:layout_height="200dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnNatanne"
+        android:background="@drawable/natanne"
+        android:layout_above="@+id/txtFooter"
+        android:layout_alignLeft="@+id/btnTanne"
+        android:layout_alignStart="@+id/btnTanne"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnTanne"
+        android:background="@drawable/tanne"
+        android:layout_above="@+id/btnNatanne"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="18dp" />
+
+    <TextView
+        android:text=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtShow"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:layout_marginBottom="76dp"
+        android:layout_above="@+id/btnTanne"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toRightOf="@+id/imageView2"
+        android:layout_toEndOf="@+id/imageView2" />
+
+    <TextView
+        android:text=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtArduino"
+        android:textColor="#fff"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:text="Copyright @SAASE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:id="@+id/txtFooter"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>
